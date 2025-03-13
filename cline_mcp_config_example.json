@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "mcp_file_finder": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\Users\\user\\PycharmProjects\\MCP_file_finder\\server.py"
+      ],
+      "disabled": false,
+      "autoApprove": [],
+      "env": {
+        "ROOT_DIR": "C:\\Users\\user\\PycharmProjects"
+      }
+    }
+  }
+}
